@@ -1,0 +1,10 @@
+{
+  "name": "twss-bot",
+  "version": "0.0.1",
+  "description": "",
+
+  "dependencies": {
+    "twss": "0.1.x",
+    "irc": "0.3.x"
+  }
+}
